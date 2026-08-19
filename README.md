@@ -1,0 +1,1 @@
+# Offensive-Security-NTLMv2_to_hashcat_format
