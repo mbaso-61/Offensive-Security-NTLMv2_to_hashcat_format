@@ -27,5 +27,5 @@ This tool is designed for cybersecurity professionals and pentesters who need to
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ntlmv2-hashcat-converter.git
+git clone https://github.com/mbaso61/ntlmv2-hashcat-converter.git
 cd ntlmv2-hashcat-converter
